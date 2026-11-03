@@ -196,8 +196,6 @@ docs/
 models/
 /data/
 *.pdf
-/outputs/day04_heat_hotdays_tropicalnights_austria.png
-/notebooks/04_Clusters.ipynb
 /notebooks/05_Senses Sight.ipynb
 /notebooks/06_Vintage.ipynb
 /notebooks/07_10 minute map.ipynb
